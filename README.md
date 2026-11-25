@@ -1,8 +1,8 @@
 # ChipDocs Altium Designer, CircuitStudio & Proteus Library (`.lia` & `.pas`)
 
-![Verified Parts](https://img.shields.io/badge/Altium_%2F_Proteus_Parts-7,975-ca8a04?style=flat-square) ![Formats](https://img.shields.io/badge/Formats-.LIA_%2B_.PAS_%2B_.STEP-0f172a?style=flat-square) ![Standard](https://img.shields.io/badge/IPC--7351B_Verified-10b981?style=flat-square)
+![Verified Parts](https://img.shields.io/badge/Altium_%2F_Proteus_Parts-8,290-ca8a04?style=flat-square) ![Formats](https://img.shields.io/badge/Formats-.LIA_%2B_.PAS_%2B_.STEP-0f172a?style=flat-square) ![Standard](https://img.shields.io/badge/IPC--7351B_Verified-10b981?style=flat-square)
 
-> Verified **Altium Designer / CircuitStudio / CircuitMaker / Proteus** libraries exported in both **P-CAD V16 ASCII (`.lia`)** and **Native Altium DelphiScript (`.pas`)** across **7,975+ components** at **[chipdocs.org](https://chipdocs.org)**.
+> Verified **Altium Designer / CircuitStudio / CircuitMaker / Proteus** libraries exported in both **P-CAD V16 ASCII (`.lia`)** and **Native Altium DelphiScript (`.pas`)** across **8,290+ components** at **[chipdocs.org](https://chipdocs.org)**.
 
 ## How to Import into Altium Designer & Proteus
 - **Option A (Altium Import Wizard — `.lia`)**: `File → Import Wizard → P-CAD Libraries and Designs → Add *.lia` → generates native `.SchLib` + `.PcbLib`.
@@ -18,7 +18,7 @@
 - **[IC Equivalents & Drop-In Replacement Finder](https://chipdocs.org/equivalents)** & **[Side-by-Side Pinout Comparator](https://chipdocs.org/compare)**
 - **[PDF Datasheet → Multi-EDA CAD Compiler](https://chipdocs.org/instancad)**
 
-## Featured Verified Altium / Proteus Libraries (44 Parts)
+## Featured Verified Altium / Proteus Libraries (45 Parts)
 | Part Number (MPN) | Manufacturer | Package | Pins | Interactive 2D/3D | Direct CAD | Equivalents |
 | :--- | :--- | :--- | :---: | :--- | :---: | :--- |
 | **STM32F103VGT6** | STMicroelectronics | `LQFP-100(14x14)` | 100 | [![STM32F103VGT6](https://chipdocs.org/badge/STM32F103VGT6.svg)](https://chipdocs.org/parts/STM32F103VGT6/ST/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C8305/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/STM32F103VGT6) |
@@ -37,6 +37,7 @@
 | **ESP32-C3-MINI-1-H4** | Espressif Systems | `SMD,16.6x13.2mm` | 53 | [![ESP32-C3-MINI-1-H4](https://chipdocs.org/badge/ESP32-C3-MINI-1-H4.svg)](https://chipdocs.org/parts/ESP32-C3-MINI-1-H4/ESPRESSIF/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C2934569/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/ESP32-C3-MINI-1-H4) |
 | **ESP32-C3-MINI-1U-N4** | Espressif Systems | `SMD,13.2x12.5mm` | 61 | [![ESP32-C3-MINI-1U-N4](https://chipdocs.org/badge/ESP32-C3-MINI-1U-N4.svg)](https://chipdocs.org/parts/ESP32-C3-MINI-1U-N4/ESPRESSIF/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C2911374/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/ESP32-C3-MINI-1U-N4) |
 | **ESP32-C3-MINI-1-H4X** | Espressif Systems | `SMD,16.6x13.2mm` | 53 | [![ESP32-C3-MINI-1-H4X](https://chipdocs.org/badge/ESP32-C3-MINI-1-H4X.svg)](https://chipdocs.org/parts/ESP32-C3-MINI-1-H4X/ESPRESSIF/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C41349510/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/ESP32-C3-MINI-1-H4X) |
+| **NRF52840-QIAA-R** | Nordic Semiconductor | `AQFN-73-EP(7x7)` | 73 | [![NRF52840-QIAA-R](https://chipdocs.org/badge/NRF52840-QIAA-R.svg)](https://chipdocs.org/parts/NRF52840-QIAA-R/NORDIC/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C190794/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/NRF52840-QIAA-R) |
 | **RP2040** | Raspberry Pi | `LQFN-56(7x7)` | 57 | [![RP2040](https://chipdocs.org/badge/RP2040.svg)](https://chipdocs.org/parts/RP2040/Raspberry-Pi/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C2040/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/RP2040) |
 | **CH340X** | WCH (Nanjing Qinheng) | `MSOP-10` | 10 | [![CH340X](https://chipdocs.org/badge/CH340X.svg)](https://chipdocs.org/parts/CH340X/WCH/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C3035748/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/CH340X) |
 | **CH340K** | WCH (Nanjing Qinheng) | `ESSOP-10-150mil-1mm` | 11 | [![CH340K](https://chipdocs.org/badge/CH340K.svg)](https://chipdocs.org/parts/CH340K/WCH/view-part) | [Download .LIA](https://chipdocs.org/api/v1/assets/C968586/cleanroom/library.lia) | [Drop-In Alts](https://chipdocs.org/equivalents/CH340K) |
