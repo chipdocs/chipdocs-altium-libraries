@@ -1,8 +1,8 @@
 # ChipDocs Altium Designer, CircuitStudio & Proteus Library (`.lia` & `.pas`)
 
-![Verified Parts](https://img.shields.io/badge/Altium_%2F_Proteus_Parts-8,290-ca8a04?style=flat-square) ![Formats](https://img.shields.io/badge/Formats-.LIA_%2B_.PAS_%2B_.STEP-0f172a?style=flat-square) ![Standard](https://img.shields.io/badge/IPC--7351B_Verified-10b981?style=flat-square)
+![Verified Parts](https://img.shields.io/badge/Altium_%2F_Proteus_Parts-8,581-ca8a04?style=flat-square) ![Formats](https://img.shields.io/badge/Formats-.LIA_%2B_.PAS_%2B_.STEP-0f172a?style=flat-square) ![Standard](https://img.shields.io/badge/IPC--7351B_Verified-10b981?style=flat-square)
 
-> Verified **Altium Designer / CircuitStudio / CircuitMaker / Proteus** libraries exported in both **P-CAD V16 ASCII (`.lia`)** and **Native Altium DelphiScript (`.pas`)** across **8,290+ components** at **[chipdocs.org](https://chipdocs.org)**.
+> Verified **Altium Designer / CircuitStudio / CircuitMaker / Proteus** libraries exported in both **P-CAD V16 ASCII (`.lia`)** and **Native Altium DelphiScript (`.pas`)** across **8,581+ components** at **[chipdocs.org](https://chipdocs.org)**.
 
 ## How to Import into Altium Designer & Proteus
 - **Option A (Altium Import Wizard — `.lia`)**: `File → Import Wizard → P-CAD Libraries and Designs → Add *.lia` → generates native `.SchLib` + `.PcbLib`.
